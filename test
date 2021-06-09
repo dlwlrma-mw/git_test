@@ -6,11 +6,22 @@ https://arxiv.org/pdf/2102.09000.pdf
 http://www.wowotech.net/sort/device_model/page/2
 
 
-字符设备和块设备
+字符设备和块设备：
 https://www.linuxprobe.com/block-string-device.html
 
-
+MTK Camera驱动上电与初始化：
 https://www.jianshu.com/p/6277a803b1a0
 
 android camera相关：
 https://blog.csdn.net/frank_zyp/category_9707593.html
+
+系统进程监视器：
+gnome-system-monitor
+
+
+https://mtkstm01.mediatek.com/PKSMedia/433b9ec7-cc31-43c3-938c-6dfd42cf3b57/ad907af8-9a88-484a-b020-ea10437dadf8/621/output/AF_Driver_Porting_Introduction.mp4
+
+
+
+adb常用命令：
+https://www.cnblogs.com/laoluoits/p/10985442.html
